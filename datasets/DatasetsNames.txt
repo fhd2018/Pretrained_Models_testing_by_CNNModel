@@ -1,0 +1,5 @@
+Arabic Dataset 1: stsbenchmark_ar.tsv
+Arabic Dataset 2: dataset_ar.xlsx
+English Dataset 1: stsbenchmark_en.tsv
+English Dataset 2: dataset_en.xlsx
+
