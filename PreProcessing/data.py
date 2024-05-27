@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup, element
-
-pathXML = "AR-ASAG DataSet/XML-Moodle Version/MoodleXML- Questions - Student  Answers - Average Gold.xml"
+# Load AR-ASAG DataSet XML-Moodle Version.
+pathXML = "MoodleXML- Questions - Student  Answers - Average Gold.xml"
 
 
 soup: BeautifulSoup
