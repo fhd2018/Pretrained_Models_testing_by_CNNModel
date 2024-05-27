@@ -1,4 +1,4 @@
-Pretrained_Models_testing_by_CNNModel
+#Pretrained_Models_testing_by_CNNModel
 
 
 This project contains a set of experiments that were implemented on (Colab-Google).
